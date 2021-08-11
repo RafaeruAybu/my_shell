@@ -7,7 +7,7 @@ It is a custom shell project. Simply it does parcing and executing as a bash. It
 # Usage
 This is a Makefile project\
 In your Terminal, clone it\
-$ git clone https://github.com/RafaeruAybu/my_shell\
+$ git clone https://github.com/RafaeruAybu/my_shell \
 cd into it\
 $ cd MyShell and enter\
 $ make\
